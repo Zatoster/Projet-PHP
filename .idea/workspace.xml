@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5b4f7bb-ed13-43bc-833c-a86fba210595" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1ZqCP2PDsX9ZFNiaOjOUUIfi7rR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5b4f7bb-ed13-43bc-833c-a86fba210595" name="Default Changelist" comment="" />
+      <created>1585557209845</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585557209845</updated>
+      <workItem from="1585557213337" duration="972000" />
+      <workItem from="1585558402281" duration="1062000" />
+      <workItem from="1585562245784" duration="587000" />
+      <workItem from="1585570736651" duration="2466000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="273" key="NewPhpClassDialog" timestamp="1585646235031">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="518" y="273" key="NewPhpClassDialog/0.0.1440.900@0.0.1440.900" timestamp="1585646235031" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1585646691760">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1585646691760" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1585570985268">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585570985268" />
+  </component>
+</project>

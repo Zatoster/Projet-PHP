@@ -1,0 +1,20 @@
+h1{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+
+}
+
+.nav_button{
+    position: relative;
+    padding: 50px;
+    border-radius: 25px;
+    z-index: 10;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color: #c6cace7e;
+}
