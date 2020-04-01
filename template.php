@@ -15,29 +15,6 @@
             <button>LaPoste</button>
         </div>
     </header>
-    <form method="POST" action="#">
-
-        <?php
-        $form = new autoform;
-        $form->getInputText("Nom","name");
-        $form->getInputText("Sexe","gender");
-        $form->getInputSubmit("Valider","submit");
-        echo "</br>";
-        $form->getInputText("Age","age");
-        $form->getInputText("Taille","taille");
-        $form->getInputSubmit("Valider","submit");
-        if(!empty($_POST)){
-            echo $_POST["Nom"];
-        }
-
-        public function getTextArea($name,$label){
-            echo '<label for="'.$label.'">'.$name.'</label>';
-            echo '<textarea name="'.$name.'"></textarea>';
-
-        }
-$auto->getTextArea("Votre texte: ","txt");
-        ?>
-    </form>
 <footer>
 
 </footer>
