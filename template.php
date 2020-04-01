@@ -15,29 +15,28 @@
             <button>LaPoste</button>
         </div>
     </header>
-    <form method="POST" action="#">
-
+    <div>
         <?php
-        $form = new autoform;
-        $form->getInputText("Nom","name");
-        $form->getInputText("Sexe","gender");
-        $form->getInputSubmit("Valider","submit");
-        echo "</br>";
-        $form->getInputText("Age","age");
-        $form->getInputText("Taille","taille");
-        $form->getInputSubmit("Valider","submit");
-        if(!empty($_POST)){
-            echo $_POST["Nom"];
-        }
-
-        public function getTextArea($name,$label){
-            echo '<label for="'.$label.'">'.$name.'</label>';
-            echo '<textarea name="'.$name.'"></textarea>';
-
-        }
-$auto->getTextArea("Votre texte: ","txt");
+            $stories = array(
+                1 => false,
+                2 => false,
+                3 => false,
+                4 => false,
+                5 => false,
+                6 => false,
+                7 => false,
+                8 => false,
+                9 => false,
+                10 => false,
+                11 => false,
+                12 => false,
+                13 => false,
+                14 => false,
+                15 => false,
+                16 => false,
+            )
         ?>
-    </form>
+    </div>
 <footer>
 
 </footer>

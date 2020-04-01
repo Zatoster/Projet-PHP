@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f5b4f7bb-ed13-43bc-833c-a86fba210595" name="Default Changelist" comment="" />
+    <list default="true" id="f5b4f7bb-ed13-43bc-833c-a86fba210595" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.php" beforeDir="false" afterPath="$PROJECT_DIR$/template.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +15,16 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="amine" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZqCP2PDsX9ZFNiaOjOUUIfi7rR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -36,7 +48,9 @@
       <workItem from="1585557213337" duration="972000" />
       <workItem from="1585558402281" duration="1062000" />
       <workItem from="1585562245784" duration="587000" />
-      <workItem from="1585570736651" duration="2466000" />
+      <workItem from="1585570736651" duration="2719000" />
+      <workItem from="1585745208210" duration="177000" />
+      <workItem from="1585746046857" duration="2051000" />
     </task>
     <servers />
   </component>
@@ -47,6 +61,10 @@
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1585746312202">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900/-198.-1080.1920.1080@0.0.1440.900" timestamp="1585746312202" />
     <state x="518" y="273" key="NewPhpClassDialog" timestamp="1585646235031">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
