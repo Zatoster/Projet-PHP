@@ -1,13 +1,28 @@
-h1{
+h1 {
     display: flex;
     justify-content: center;
 }
 
-button{
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
+.result{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.tab {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+button {
 
 }
 
-.nav_button{
+.nav_button {
     position: relative;
     padding: 50px;
     border-radius: 25px;
