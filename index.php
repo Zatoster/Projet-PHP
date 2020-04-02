@@ -5,16 +5,10 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="style.css">
 </head>
+<?php
+include 'header.php';
+?>
 <body>
-<header>
-    <h1>Template HTML</h1>
-    <div class="nav_button">
-        <button>Exos</button>
-        <button>Algos</button>
-        <button>BDD</button>
-        <button>LaPoste</button>
-    </div>
-</header>
 <h2>État des Stories</h2>
 <div class="tab">
     <div>
@@ -76,8 +70,8 @@
     <p>Le nombre de Stories finie(s) est de <?php echo 16 - $nbNotFinished; ?> </p>
     <p>Le nombre de Stories non-finie(s) est de <?php echo $nbNotFinished; ?> </p>
 </div>
-<footer>
-
-</footer>
+<?php
+include 'footer.php';
+?>
 </body>
 </html>
